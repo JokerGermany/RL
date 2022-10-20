@@ -1,5 +1,5 @@
-[Offizielle Infos über den Status der Server](https://status.epicgames.com)
-[Rank Verteilung vorheriger Seasons](https://www.reddit.com/r/RocketLeague/comments/kr4weh/season_1_rank_distribution/)
+[Offizielle Infos über den Status der Server](https://status.epicgames.com)  
+[Rank Verteilung Seasons 1](https://www.reddit.com/r/RocketLeague/comments/kr4weh/season_1_rank_distribution/)  
 https://support.rocketleague.com/hc/en-us/articles/360029832054-Rocket-League-Car-Hitboxes
 
 # Rotation
