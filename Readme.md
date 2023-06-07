@@ -6,10 +6,9 @@ https://support.rocketleague.com/hc/en-us/articles/360029832054-Rocket-League-Ca
 [3vs3](https://www.youtube.com/watch?v=QEhxTfHYeCs)  
 [2vs2](https://www.youtube.com/watch?v=yiBzXZ4pNH4)
 
-
-[HALF FLIP Tutorial](https://www.youtube.com/watch?v=N-Wh5GV116g)
+# Tutorial
+[HALF FLIP Tutorial](https://www.youtube.com/watch?v=N-Wh5GV116g)  
 [What keeps Rocket League players out of champ?](https://www.youtube.com/watch?v=x9d49UzgEiA)
-
 
 Kickoff Tutorial:  
 https://www.youtube.com/watch?v=hKMnJn04LlY
